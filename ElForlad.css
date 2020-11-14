@@ -1,0 +1,251 @@
+.container
+{
+width:1500px;
+
+
+
+
+}
+.header
+{
+    width: 1500px;
+    height:150px;
+    background-image: url("images/header-bg.jpg");
+    background-size: 1500px 150px;
+}
+.header1,.header2
+{
+    width: 750px;
+    height: 100px;
+    float: left;
+}
+.h21{
+    height: 75px;
+    background-color: white;
+}
+.s1
+{
+    padding-left: 30px;
+    
+}
+.h22
+{
+    position: absolute;
+    top:100px;
+    margin-left: 100px;
+    width: 650px;
+
+}
+.h22 a
+{
+    padding: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.h22 a:hover
+{
+    color: black;
+}
+.readme
+{
+    text-decoration: none;
+    color: white;
+    border-radius:30px;
+    position: relative;
+    left: 600px;
+    top: 50px;
+    font-size: 30px;
+    padding: 15px 30px;
+    background-color: orangered;
+    text-align: center;
+}
+.body a:hover
+{
+    background-color: black;
+}
+.formm
+{
+    position: relative;
+    width: 1000px;
+     left: 300px;
+    height: 300px;
+    top:40px;
+    background-color: darkgrey;
+    opacity: 0.7;
+
+}
+.form1
+{
+    float: left;
+    padding: 20px;
+    padding-left: 45px;
+   
+}
+.formm input
+{
+    padding: 10px;
+}
+select
+{
+    text-align: center;
+    width: 180px;
+    height: 40px;
+}
+
+.alink 
+{
+    text-decoration: none;
+    color: white;
+    border-radius:30px;
+    margin-left:650px;
+    font-size: 30px;
+    padding: 15px 30px;
+    background-color: orangered;
+    text-align: center;
+}
+.body .alink:hover,.divpart3 a:hover
+{
+    background-color: darkturquoise;
+}
+.divpart3
+{
+    float: left;
+    height: 300px;
+    width: 200px;
+    
+    margin-left: 100px;
+    padding:30px;
+}
+.divpart3 p
+{
+   font-size: 15px;line-height: 2em;text-align: center;
+}
+.divpart3 a
+{
+    text-decoration: none;
+    color: white;
+    border-radius:30px;
+    margin-left:30px;
+    font-size: 20px;
+    padding: 7px 12px;
+    background-color: orangered;
+    text-align: center;
+}
+.divpart5
+{
+    float: left;
+   
+    width: 370px;
+   
+    margin-left: 100px;
+    padding:5px;
+}
+.divpart5 p
+{
+   font-size: 20px;
+}
+.divpart6
+{
+  position: absolute;
+  width: 1500px;
+  height: 400px;
+  border: 1px solid greenyellow;
+
+}
+.buttonpart61
+{
+    
+    text-decoration: none;
+    color: white;
+    border-radius:30px;
+    font-size: 30px;
+    padding: 15px 30px;
+    background-color: orangered;
+ 
+
+}
+.buttonpart62
+{
+
+    text-decoration: none;
+    color: white;
+    border-radius:30px;
+    margin-left: 30px;
+    font-size: 30px;
+    padding: 15px 30px;
+    background-color: orangered;
+    
+    
+}
+.divpart7
+{
+    float: left;
+    width: 500px;
+    margin-left: 150px;
+    padding:5px;
+}
+.footer
+{
+    width: 1500px;
+    height: 400px;
+    border: 1px solid yellow;
+    background-color: teal;
+}
+.socialicon 
+{
+
+    margin-left: 150px;
+    margin-top: 50px;
+    
+
+}
+.socialicon img
+{
+    padding-left: 15px;
+}
+.f1
+{
+    margin-left: 40px;color: white;margin-top: 100px;
+}
+.f1 a
+{
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    color: white;
+    padding-bottom: 10px;
+}
+.f1 a:hover
+{
+    color: wheat;
+}
+.f2 h1
+{
+margin-top: 100px;
+color:white;
+margin-left: 20px;
+
+}
+.f2 input[type="text"],.f2 input[type="email"]
+{
+    padding:15px;
+    margin-left: 15px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.sub 
+{
+    background-color: black;
+    color: white;
+    margin-left: 400px;
+    width: 100px;
+    font-size: 20px;
+    padding:10px;
+
+}
+.sub:hover
+{
+    background-color: rgb(4, 247, 255);
+}
